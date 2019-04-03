@@ -1,0 +1,6 @@
+/Users/shota/Documents/TAFE/Semester2/CloudComputing/Assignment/Assignment1/BinaryTree/BinaryTree/bin/Debug/BinaryTree.exe
+/Users/shota/Documents/TAFE/Semester2/CloudComputing/Assignment/Assignment1/BinaryTree/BinaryTree/bin/Debug/BinaryTree.pdb
+/Users/shota/Documents/TAFE/Semester2/CloudComputing/Assignment/Assignment1/BinaryTree/BinaryTree/obj/x86/Debug/BinaryTree.csprojResolveAssemblyReference.cache
+/Users/shota/Documents/TAFE/Semester2/CloudComputing/Assignment/Assignment1/BinaryTree/BinaryTree/obj/x86/Debug/BinaryTree.csproj.CoreCompileInputs.cache
+/Users/shota/Documents/TAFE/Semester2/CloudComputing/Assignment/Assignment1/BinaryTree/BinaryTree/obj/x86/Debug/BinaryTree.exe
+/Users/shota/Documents/TAFE/Semester2/CloudComputing/Assignment/Assignment1/BinaryTree/BinaryTree/obj/x86/Debug/BinaryTree.pdb
